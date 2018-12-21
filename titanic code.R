@@ -1,4 +1,4 @@
-#load relevant libraries/packages
+#load libraries/packages
 #library(tidyverse)
 
 #step 0: load data
